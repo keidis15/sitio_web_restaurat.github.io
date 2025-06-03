@@ -35,9 +35,8 @@ Se aplicaron **media queries** para asegurar una experiencia de usuario fluida y
 
 ## 🚀 Cómo visualizar el proyecto
 
-Puedes abrir el archivo `index.html` directamente desde tu navegador  en vivo publicado en  GitHub Pages:
-
-
+Puedes abrir mi proyecto directamente desde tu navegador  en vivo publicado en  GitHub Pages:
+ https://keidis15.github.io/sitio_web_restaurat.github.io/
 
 ---
 
